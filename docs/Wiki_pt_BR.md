@@ -261,7 +261,7 @@ Os arquivos de tradução ficam em `languages/`:
 ## 📞 Contato e Suporte
 
 - **GitHub**: [Squad44ServerTool](https://github.com/DX-BR/Squad44ServerTool)
-- **Discord**: Servidor da comunidade brasileira
+- **Discord**: [Squad44ServerTool](https://discord.gg/Mz5FHTUPgn)
 - **Documentação**: Este arquivo sempre atualizado
 
 **Versão da Wiki**: 1.0  

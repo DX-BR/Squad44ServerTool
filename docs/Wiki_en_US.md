@@ -262,7 +262,7 @@ Translation files are in `languages/`:
 ## 📞 Contact and Support
 
 - **GitHub**: [Squad44ServerTool](https://github.com/DX-BR/Squad44ServerTool)
-- **Discord**: Brazilian community server
+- **Discord**: [Squad44ServerTool](https://discord.gg/Mz5FHTUPgn)
 - **Documentation**: Always updated version of this file
 
 **Wiki Version**: 1.0  
