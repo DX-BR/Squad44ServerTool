@@ -265,7 +265,7 @@ Os arquivos de tradução ficam em `languages/`:
 - **Documentação**: Este arquivo sempre atualizado
 
 **Versão da Wiki**: 1.0  
-**Última atualização**: Janeiro 2025
+**Última atualização**: Outubo 2025
 
 ---
 

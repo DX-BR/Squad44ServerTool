@@ -266,7 +266,7 @@ Translation files are in `languages/`:
 - **Documentation**: Always updated version of this file
 
 **Wiki Version**: 1.0  
-**Last Update**: January 2025
+**Last Update**: October 2025
 
 ---
 
