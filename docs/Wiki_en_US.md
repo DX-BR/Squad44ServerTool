@@ -54,7 +54,7 @@ The interface is divided into 4 main tabs:
 
 ## 🎮 Server Tab
 
-![Server Tab](docs/images/server-tab.png)
+![Server Tab](images/server-tab.png)
 
 ### Main Controls
 - **Start**: Starts the dedicated server
@@ -80,7 +80,7 @@ The interface is divided into 4 main tabs:
 
 ### Restart Scheduling
 
-![Scheduling](docs/images/schedule.png)
+![Scheduling](images/schedule.png)
 
 1. Check **Auto-restart**
 2. Select the desired time (24h format)
@@ -94,7 +94,7 @@ The interface is divided into 4 main tabs:
 
 ## 📁 Files Tab
 
-![Files Tab](docs/images/files-tab.png)
+![Files Tab](images/files-tab.png)
 
 ### SteamCMD and Server Installation
 
@@ -123,7 +123,7 @@ The console shows in real time:
 
 ## 🔧 Mods Tab
 
-![Mods Tab](docs/images/mods-tab.png)
+![Mods Tab](images/mods-tab.png)
 
 ### Mod Management
 
@@ -151,7 +151,7 @@ The console shows in real time:
 
 ## ⚙️ Settings Tab
 
-![Settings Tab](docs/images/settings-tab.png)
+![Settings Tab](images/settings-tab.png)
 
 ### Interface Theme
 - **Light**: Interface with light colors

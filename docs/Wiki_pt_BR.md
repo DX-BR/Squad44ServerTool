@@ -53,7 +53,7 @@ A interface é dividida em 4 abas principais:
 
 ## 🎮 Aba Servidor
 
-![Aba Servidor](docs/images/server-tab.png)
+![Aba Servidor](images/server-tab.png)
 
 ### Controles Principais
 - **Iniciar**: Inicia o servidor dedicado
@@ -79,7 +79,7 @@ A interface é dividida em 4 abas principais:
 
 ### Agendamento de Reinicializações
 
-![Agendamento](docs/images/schedule.png)
+![Agendamento](images/schedule.png)
 
 1. Marque **Auto-reiniciar**
 2. Selecione a hora desejada (formato 24h)
@@ -93,7 +93,7 @@ A interface é dividida em 4 abas principais:
 
 ## 📁 Aba Arquivos
 
-![Aba Arquivos](docs/images/files-tab.png)
+![Aba Arquivos](images/files-tab.png)
 
 ### SteamCMD e Instalação do Servidor
 
@@ -122,7 +122,7 @@ O console mostra em tempo real:
 
 ## 🔧 Aba Mods
 
-![Aba Mods](docs/images/mods-tab.png)
+![Aba Mods](images/mods-tab.png)
 
 ### Gerenciamento de Mods
 
@@ -150,7 +150,7 @@ O console mostra em tempo real:
 
 ## ⚙️ Aba Configurações
 
-![Aba Configurações](docs/images/settings-tab.png)
+![Aba Configurações](images/settings-tab.png)
 
 ### Tema da Interface
 - **Claro**: Interface com cores claras
