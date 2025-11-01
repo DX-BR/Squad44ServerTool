@@ -1,44 +1,44 @@
-# Squad44 Server Tool
+# Squad44 Server Tool 🚀
 
-A simple and efficient tool for managing Squad44 game servers.
+A simple and efficient tool for managing Squad44 game servers. 🎮
 
-## Features
+## Features ✨
 
-- Server management and configuration
-- Mod installation and management
-- Multiple language support
-- User-friendly interface with light theme
+- Server management and configuration ⚙️
+- Mod installation and management 🔧
+- Multiple language support 🌍
+- User-friendly interface with light theme 🌞
 
-## Requirements
+## Requirements 📋
 
-- Windows 10 or higher
-- .NET 8.0 or higher
-- SteamCMD (automatically installed if not present)
-- Internet connection for server updates and mod downloads
+- Windows 10 or higher 💻
+- .NET 8.0 or higher 📦
+- SteamCMD (automatically installed if not present) 🔽
+- Internet connection for server updates and mod downloads 🌐
 
-## Installation
+## Installation ⚙️
 
-1. Download the latest release from the releases page
-2. Extract the files to your preferred location
-3. Run `Squad44ServerTool.exe`
+1. Download the latest release from the [releases page](https://github.com/DX-BR/Squad44ServerTool/releases) 📥
+2. Extract the files to your preferred location 📂
+3. Run `Squad44ServerTool.exe` 🖥️
 
-## Usage
+## Usage 🎯
 
-### Server Management
-- Configure server settings through the Server tab
-- Start, stop, and restart your server
-- Monitor server status and logs
+### Server Management ⚙️
+- Configure server settings through the **Server tab** 🛠️
+- Start, stop, and restart your server 🔄
+- Monitor server status and logs 📊
 
-### Mod Management
-- Browse and install mods from the Mods tab
-- Enable or disable installed mods
-- Update mods automatically
+### Mod Management 🎮
+- Browse and install mods from the **Mods tab** 🔍
+- Enable or disable installed mods ✔️❌
+- Update mods automatically 🔄
 
-### Settings
-- Change interface language
-- Configure application preferences
-- Set file paths for game and server files
+### Settings ⚙️
+- Change interface language 🌐
+- Configure application preferences 🔧
+- Set file paths for game and server files 📁
 
-## Support
+## Support 🆘
 
-For issues, questions, or feature requests, please open an issue on our GitHub repository.
+For issues, questions, or feature requests, please open an issue on our GitHub repository. 📬
