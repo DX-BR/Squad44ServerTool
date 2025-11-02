@@ -39,6 +39,9 @@ A simple and efficient tool for managing Squad44 game servers. 🎮
 - Configure application preferences 🔧
 - Set file paths for game and server files 📁
 
+### Discord Community 💬
+Join our official Discord server for support and discussions: [Squad 44 Server Tool Discord](https://discord.gg/Mz5FHTUPgn) 🎧
+
 ## Support 🆘
 
 For issues, questions, or feature requests, please open an issue on our GitHub repository. 📬
